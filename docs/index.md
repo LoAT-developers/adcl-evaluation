@@ -32,21 +32,31 @@
 
     Below we provide tables with the detailed results of our benchmarks:
     <ul>
-      <li><a href="./loat.html">LoAT</a></li>
+      <li>Examples with integers and Booleans></li>
       <ul>
-        <li>invocation: <tt>loat-static --mode reachability --format horn $INPUT</tt></li>
+        <li><a href="./loat.html">LoAT</a></li>
+        <ul>
+          <li>invocation: <tt>loat-static --mode reachability --format horn $INPUT</tt></li>
+        </ul>
+        <li><a href="./z3.html">Z3</a></li>
+        <ul>
+          <li>invocation: <tt>z3 $INPUT</tt></li>
+        </ul>
+        <li><a href="./eld.html">Eldarica</a></li>
+        <ul>
+          <li>invocation: <tt>eld $INPUT</tt></li>
+        </ul>
+        <li><a href="./eld_stac.html">Eldarica with acceleration as pre-processing</a></li>
+        <ul>
+          <li>invocation: <tt>eld -stac $INPUT</tt></li>
+        </ul>
       </ul>
-      <li><a href="./z3.html">Z3</a></li>
+      <li>Examples with integers only></li>
       <ul>
-        <li>invocation: <tt>z3 $INPUT</tt></li>
-      </ul>
-      <li><a href="./eld.html">Eldarica</a></li>
-      <ul>
-        <li>invocation: <tt>eld $INPUT</tt></li>
-      </ul>
-      <li><a href="./eld_stac.html">Eldarica with acceleration as pre-processing</a></li>
-      <ul>
-        <li>invocation: <tt>eld -stac $INPUT</tt></li>
+        <li><a href="./loat_int.html">LoAT</a></li>
+        <li><a href="./z3_int.html">Z3</a></li>
+        <li><a href="./eld_int.html">Eldarica</a></li>
+        <li><a href="./eld_stac_int.html">Eldarica with acceleration as pre-processing</a></li>
       </ul>
     </ul>
 
