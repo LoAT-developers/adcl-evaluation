@@ -44,6 +44,10 @@
       <ul>
         <li>invocation: <tt>eld $INPUT</tt></li>
       </ul>
+      <li><a href="./eld_stac.html">Eldarica with acceleration as pre-processing</a></li>
+      <ul>
+        <li>invocation: <tt>eld -stac $INPUT</tt></li>
+      </ul>
     </ul>
 
   </body>
