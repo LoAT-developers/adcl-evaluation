@@ -32,7 +32,7 @@
 
     Below we provide tables with the detailed results of our benchmarks:
     <ul>
-      <li>Examples with integers and Booleans></li>
+      <li>Examples with integers and Booleans</li>
       <ul>
         <li><a href="./loat.html">LoAT</a></li>
         <ul>
@@ -51,7 +51,7 @@
           <li>invocation: <tt>eld -stac $INPUT</tt></li>
         </ul>
       </ul>
-      <li>Examples with integers only></li>
+      <li>Examples with integers only</li>
       <ul>
         <li><a href="./loat_int.html">LoAT</a></li>
         <li><a href="./z3_int.html">Z3</a></li>
