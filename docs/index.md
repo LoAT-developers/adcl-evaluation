@@ -38,9 +38,17 @@
         <ul>
           <li>invocation: <tt>loat-static --mode reachability --format horn $INPUT</tt></li>
         </ul>
-        <li><a href="./z3.html">Z3</a></li>
+        <li><a href="./spacer.html">Spacer</a></li>
         <ul>
-          <li>invocation: <tt>z3 $INPUT</tt></li>
+          <li>invocation: <tt>z3 fp.engine=spacer $INPUT</tt></li>
+        </ul>
+        <li><a href="./bmc.html">Z3 BMC</a></li>
+        <ul>
+          <li>invocation: <tt>z3 fp.engine=bmc $INPUT</tt></li>
+        </ul>
+        <li><a href="./golem.html">Golem TPA</a></li>
+        <ul>
+          <li>invocation: <tt>golem -l QF_LIA -e tpa $INPUT</tt></li>
         </ul>
         <li><a href="./eld.html">Eldarica</a></li>
         <ul>
@@ -54,7 +62,9 @@
       <li>Examples with integers only</li>
       <ul>
         <li><a href="./loat_int.html">LoAT</a></li>
-        <li><a href="./z3_int.html">Z3</a></li>
+        <li><a href="./spacer_int.html">Spacer</a></li>
+        <li><a href="./bmc_int.html">Z3 BMC</a></li>
+        <li><a href="./golem_int.html">Golem TPA</a></li>
         <li><a href="./eld_int.html">Eldarica</a></li>
         <li><a href="./eld_stac_int.html">Eldarica with acceleration as pre-processing</a></li>
       </ul>
