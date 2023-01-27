@@ -24,9 +24,11 @@
 
     <h2>Examples</h2>
     
-    <a href="./lia.zip">Here</a> you can find a zip file containing the examples that we used for our evaluation.
+    <a href="./lia.zip">Here</a> you can find a zip file containing all examples that we used for our evaluation.
 
     It contains the 427 examples from <a href="https://github.com/chc-comp/chc-comp22-benchmarks/tree/497725c7c994cc06f74a8933ec292fa03a66ad48/LIA-Lin">the category LIA-Lin of the benchmark collection from the CHC-Comp '22</a> that do not use the operators <tt>div</tt> or <tt>mod</tt>.
+
+    <a href="./lia-int.zip">Here</a> you can find a zip file containing those examples that also do not use Boolean variables.
 
     <h2>Results</h2>
 
