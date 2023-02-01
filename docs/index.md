@@ -15,7 +15,7 @@
       You can find the source code for our tool LoAT at <a href="https://github.com/loat-developers/LoAT/tree/adcl">GitHub</a>.
     </p>
 
-    <p>Moreover, we refer to the <a href="https://loat-developers.github.io/LoAT/">general LoAT website</a> for further information.</p>
+    <!--p>Moreover, we refer to the <a href="https://loat-developers.github.io/LoAT/">general LoAT website</a> for further information.</p-->
 
     <h1>Getting LoAT</h1>
 
