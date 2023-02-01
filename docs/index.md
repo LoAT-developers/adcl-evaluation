@@ -4,7 +4,8 @@
     <title>ADCL: Acceleration Driven Clause Learning for Constrained Horn Clauses</title>
     <style>
       table, th, td {border: 1px solid black;}
-      td {text-align: center}
+      td {text-align: center;}
+      p {text-align: justify;}
     </style>
   </head>
   <body>
