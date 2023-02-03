@@ -11,7 +11,7 @@
   <body>
 
     <p>
-      This is the empirical evaluation of the paper <a href="https://arxiv.org/abs/???"><i>ADCL: Acceleration Driven Clause Learning for Constrained Horn Clauses</i></a>.
+      This is the empirical evaluation of the paper <a href="./adcl.pdf"><i>ADCL: Acceleration Driven Clause Learning for Constrained Horn Clauses</i></a>.
     </p>
 
     <!--p>Moreover, we refer to the <a href="https://loat-developers.github.io/LoAT/">general LoAT website</a> for further information.</p-->
