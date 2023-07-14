@@ -11,15 +11,15 @@
   <body>
 
     <p>
-      This is the empirical evaluation of the paper <a href="./adcl.pdf"><i>ADCL: Acceleration Driven Clause Learning for Constrained Horn Clauses</i></a>.
+      This is the empirical evaluation of the paper <a href="https://doi.org/10.48550/arXiv.2303.01827"><i>ADCL: Acceleration Driven Clause Learning for Constrained Horn Clauses</i></a>.
     </p>
 
-    <!--p>Moreover, we refer to the <a href="https://loat-developers.github.io/LoAT/">general LoAT website</a> for further information.</p-->
+    <p>Moreover, we refer to the <a href="https://loat-developers.github.io/LoAT/">general LoAT website</a> for further information.</p>
 
     <h1>Getting LoAT</h1>
 
-    We provide a <a href="https://github.com/LoAT-developers/LoAT/releases/tag/v0.3.0">pre-compiled binary of LoAT (Linux, 64 bit)</a>.
-    Moreover, you can find the source code of LoAT at <a href="https://github.com/loat-developers/LoAT/tree/v0.3.0">GitHub</a>.
+    We provide a <a href="https://github.com/LoAT-developers/LoAT/releases/tag/v0.4.0">pre-compiled binary of LoAT (Linux, 64 bit)</a>.
+    Moreover, you can find the source code of LoAT at <a href="https://github.com/loat-developers/LoAT/tree/v0.4.0">GitHub</a>.
 
     <h1>Evaluation</h1>
 
